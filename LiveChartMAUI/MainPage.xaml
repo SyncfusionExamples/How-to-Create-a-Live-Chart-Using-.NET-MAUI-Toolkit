@@ -15,9 +15,9 @@
                                VerticalOptions="Fill">
 
             <chart:SfCartesianChart.Title>
-                <Label Text="Live ECG Monitor (100Hz)" 
+                <Label Text="Live ECG Monitor (10Hz)" 
                        Margin="0,0,0,5" 
-                       Padding="0,20,0,0"
+                       Padding="0,40,0,40"
                        HorizontalOptions="Fill" 
                        HorizontalTextAlignment="Center" 
                        VerticalOptions="Center" 
