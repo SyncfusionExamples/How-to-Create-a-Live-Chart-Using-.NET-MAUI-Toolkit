@@ -1,6 +1,6 @@
 # Create Real-Time ECG Monitoring with .NET MAUI & Syncfusion Charts
 
-Discover how to build a real-time ECG monitoring application using .NET MAUI and [SfCartesianChart](https://help.syncfusion.com/cr/maui-toolkit/Syncfusion.Maui.Toolkit.Charts.SfCartesianChart.html). This guide walks you through creating a responsive, live-updating visualization that's perfect for medical applications, IoT dashboards, or any scenario requiring real-time data visualization.
+Discover how to build a real-time ECG monitoring application using .NET MAUI and [SfCartesianChart](https://help.syncfusion.com/cr/maui-toolkit/Syncfusion.Maui.Toolkit.Charts.SfCartesianChart.html). This open-source project shows you how to create a responsive, live-updating visualization for medical applications, IoT dashboards, and any scenario requiring real-time data displays.
 
 ## Overview
 
@@ -38,6 +38,8 @@ This project leverages Syncfusion®'s high-performance charting controls:
 
 - **[SfCartesianChart](https://help.syncfusion.com/cr/maui-toolkit/Syncfusion.Maui.Toolkit.Charts.SfCartesianChart.html)** - Base chart control with excellent rendering performance
 - **[FastLineSeries](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.FastLineSeries.html)** - Optimized for high-frequency data updates
+
+![Live ECG Monitor](https://github.com/user-attachments/assets/a4c2abb7-3e0e-4b86-a873-e427fa2de27d)
 
 ## Troubleshooting
 

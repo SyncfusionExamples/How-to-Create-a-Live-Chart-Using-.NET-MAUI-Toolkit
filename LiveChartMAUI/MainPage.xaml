@@ -21,7 +21,7 @@
                        HorizontalOptions="Fill" 
                        HorizontalTextAlignment="Center" 
                        VerticalOptions="Center" 
-                       FontSize="16"/>
+                       FontSize="26"/>
             </chart:SfCartesianChart.Title>
 
             <chart:SfCartesianChart.XAxes>
